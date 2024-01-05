@@ -1,0 +1,11 @@
+{
+  "name": "chat_socket",
+  "version": "1.0.0",
+  "description": "this is breif overview of socket.io and chat scoket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monojit",
+  "license": "ISC"
+}
